@@ -1,0 +1,135 @@
+<LexicalResource>
+  <type_system>
+    <!--
+         Noun :: SF Number Case
+         Numerus :: Sg | Pl
+         Person :: P1 | P2
+         Casus :: Nom | Gen | Par | Ill | Ine | Ela | All | Ade | Abl | Tra | Ter | Com
+    -->
+    <type>
+      <feat att="name" val="Noun" />
+      <feat att="type" val="dtype" />
+      <feat att="shortName" val="nn" />
+      <feat att="msdvalues" val="sg indef nom:sg indef gen:sg def nom:sg def gen:pl indef nom:pl indef gen:pl def nom:pl def gen" />
+      <feat att="datatype" val="SF" />
+    </type>
+    <type>
+      <feat att="name" val="SF" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="sf" />
+      <feat att="msd" val="" />
+      <argument name="Number" order="0" />
+      <argument name="Case" order="1" />
+    </type>
+    <type>
+      <feat att="name" val="Number" />
+      <feat att="type" val="inftype" />
+      <feat att="shortName" val="number" />
+      <feat att="msdvalues" val="" />
+      <feat att="datatype" val="Sg" />
+      <feat att="datatype" val="Pl" />
+    </type>
+    <type>
+      <feat att="name" val="Sg" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="sg" />
+      <feat att="msd" val="sg" />
+    </type>
+    <type>
+      <feat att="name" val="Pl" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="pl" />
+      <feat att="msd" val="pl" />
+    </type>
+    <type>
+      <feat att="name" val="Case" />
+      <feat att="type" val="inftype" />
+      <feat att="shortName" val="case" />
+      <feat att="msdvalues" val="" />
+      <feat att="datatype" val="Nom" />
+      <feat att="datatype" val="Gen" />
+      <feat att="datatype" val="Par" />
+      <feat att="datatype" val="Ill" />
+      <feat att="datatype" val="Ine" />
+      <feat att="datatype" val="Ela" />
+      <feat att="datatype" val="All" />
+      <feat att="datatype" val="Ade" />
+      <feat att="datatype" val="Abl" />
+      <feat att="datatype" val="Tra" />
+      <feat att="datatype" val="Ter" />
+      <feat att="datatype" val="Com" />
+    </type>
+    <type>
+      <feat att="name" val="Nom" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="nom" />
+      <feat att="msd" val="nom" />
+    </type>
+    <type>
+      <feat att="name" val="Gen" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="gen" />
+      <feat att="msd" val="gen" />
+    </type>
+    <type>
+      <feat att="name" val="Par" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="par" />
+      <feat att="msd" val="par" />
+    </type>
+    <type>
+      <feat att="name" val="Ill" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="ill" />
+      <feat att="msd" val="ill" />
+    </type>
+    <type>
+      <feat att="name" val="Ine" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="ine" />
+      <feat att="msd" val="ine" />
+    </type>
+    <type>
+      <feat att="name" val="Ela" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="ela" />
+      <feat att="msd" val="ela" />
+    </type>
+    <type>
+      <feat att="name" val="All" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="all" />
+      <feat att="msd" val="all" />
+    </type>
+    <type>
+      <feat att="name" val="Ade" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="ade" />
+      <feat att="msd" val="ade" />
+    </type>
+    <type>
+      <feat att="name" val="Abl" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="abl" />
+      <feat att="msd" val="abl" />
+    </type>
+    <type>
+      <feat att="name" val="Tra" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="tra" />
+      <feat att="msd" val="tra" />
+    </type>
+    <type>
+      <feat att="name" val="Ter" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="ter" />
+      <feat att="msd" val="ter" />
+    </type>
+    <type>
+      <feat att="name" val="Com" />
+      <feat att="type" val="constructor" />
+      <feat att="shortName" val="com" />
+      <feat att="msd" val="com" />
+    </type>
+  </type_system>
+</LexicalResource>

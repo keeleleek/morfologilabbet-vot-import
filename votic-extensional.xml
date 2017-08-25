@@ -1,0 +1,1031 @@
+<LexicalResource>
+  <GlobalInformation languageCoding="ISO 639-3" />
+  <Lexicon language="vot">
+    <LexicalEntry>
+      <Lemma>
+        <FormRepresentation>
+          <feat att="lemgram" val="aapõ..nn.1" />
+          <feat att="writtenForm" val="aapõ" />
+          <feat att="partOfSpeech" val="nn" />
+        </FormRepresentation>
+      </Lemma>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="aapõ" />
+        <feat att="msd" val="sg nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="aavõd" />
+        <feat att="msd" val="pl nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="aava" />
+        <feat att="msd" val="sg gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="aapoi" attested="no" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="aapojõ" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="aapa" />
+        <feat att="msd" val="sg par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="aapoi" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="aapoitõ" attested="no" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="aapaa" />
+        <feat att="msd" val="sg ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="aapasõ" />
+        <feat att="msd" val="sg ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="aapoisõ" />
+        <feat att="msd" val="pl nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="aavaz" />
+        <feat att="msd" val="sg ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="aavoiz" />
+        <feat att="msd" val="pl ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="aavõssõ" />
+        <feat att="msd" val="sg ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="aapoissõ" />
+        <feat att="msd" val="pl ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="aavõllõ" />
+        <feat att="msd" val="sg all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="aapoillõ" />
+        <feat att="msd" val="pl all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="aavõl" />
+        <feat att="msd" val="sg ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="aapoil" />
+        <feat att="msd" val="pl ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="aavõssi" />
+        <feat att="msd" val="sg abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="aapoissi" />
+        <feat att="msd" val="pl abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="aapassi" />
+        <feat att="msd" val="sg tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="aapoissi" />
+        <feat att="msd" val="pl tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="aapassaa" />
+        <feat att="msd" val="sg ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="aapoissaa" />
+        <feat att="msd" val="pl ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="aavaka" />
+        <feat att="msd" val="sg com" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="aapoika" />
+        <feat att="msd" val="pl com" />
+      </WordForm>
+    </LexicalEntry>
+    <LexicalEntry>
+      <Lemma>
+        <FormRepresentation>
+          <feat att="lemgram" val="poikõ..nn.1" />
+          <feat att="writtenForm" val="poikõ" />
+          <feat att="partOfSpeech" val="nn" />
+        </FormRepresentation>
+      </Lemma>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="poikõ" />
+        <feat att="msd" val="sg nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="poigõd" />
+        <feat att="msd" val="pl nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="poiga" />
+        <feat att="msd" val="sg gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="poiki" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="poikije" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="poika" />
+        <feat att="msd" val="sg par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="poikaa" />
+        <feat att="msd" val="sg par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="poiki" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="poikitõ" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="poikaa" />
+        <feat att="msd" val="sg ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="poikasõ" />
+        <feat att="msd" val="sg ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="poiki" />
+        <feat att="msd" val="pl ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="poikisõ" />
+        <feat att="msd" val="pl ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="poigõz" />
+        <feat att="msd" val="sg ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="poikiz" />
+        <feat att="msd" val="pl ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="poigõssõ" />
+        <feat att="msd" val="sg ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="poikissõ" />
+        <feat att="msd" val="pl ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="poigõllõ" />
+        <feat att="msd" val="sg all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="poikillõ" />
+        <feat att="msd" val="pl all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="poigõl" />
+        <feat att="msd" val="sg ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="poikil" />
+        <feat att="msd" val="pl ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="poigõltõ" />
+        <feat att="msd" val="sg abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="poikiltõ" />
+        <feat att="msd" val="pl abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="poigõssi" />
+        <feat att="msd" val="sg tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="poikissi" />
+        <feat att="msd" val="pl tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="poikassaa" />
+        <feat att="msd" val="sg ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="poikissaa" />
+        <feat att="msd" val="pl ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="poigaka" />
+        <feat att="msd" val="sg com" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="poikika" />
+        <feat att="msd" val="pl com" />
+      </WordForm>
+    </LexicalEntry>
+    <LexicalEntry>
+      <Lemma>
+        <FormRepresentation>
+          <feat att="lemgram" val="jalkõ..nn.1" />
+          <feat att="writtenForm" val="jalkõ" />
+          <feat att="partOfSpeech" val="nn" />
+        </FormRepresentation>
+      </Lemma>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="jalkõ" />
+        <feat att="msd" val="sg nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="jalgõd" />
+        <feat att="msd" val="pl nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="jalga" />
+        <feat att="msd" val="sg nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="jalkoi" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="jalkojõ" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="jalka" />
+        <feat att="msd" val="sg par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="jalkaa" />
+        <feat att="msd" val="sg par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="jalkoi" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="jalkoitõ" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="jalka" />
+        <feat att="msd" val="sg ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="jalkasõ" />
+        <feat att="msd" val="sg ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="jalkoisõ" />
+        <feat att="msd" val="pl ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="jalgõz" />
+        <feat att="msd" val="sg ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="jalkoiz" />
+        <feat att="msd" val="pl ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="jalgõssõ" />
+        <feat att="msd" val="sg ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="jalkoissõ" />
+        <feat att="msd" val="pl ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="jalgõllõ" />
+        <feat att="msd" val="sg all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="jalkoillõ" />
+        <feat att="msd" val="pl all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="jalgõl" />
+        <feat att="msd" val="sg ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="jalkoil" />
+        <feat att="msd" val="pl ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="jalgõltõ" />
+        <feat att="msd" val="sg abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="jalkoiltõ" />
+        <feat att="msd" val="pl abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="jalgõssi" />
+        <feat att="msd" val="sg tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="jalkoissi" />
+        <feat att="msd" val="pl tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="jalkassaa" />
+        <feat att="msd" val="sg ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="jalkoissaa" />
+        <feat att="msd" val="pl ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="jalgaka" />
+        <feat att="msd" val="sg com" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="jalkoika" />
+        <feat att="msd" val="pl com" />
+      </WordForm>
+    </LexicalEntry>
+    <LexicalEntry>
+      <Lemma>
+        <FormRepresentation>
+          <feat att="lemgram" val="aikõ..nn.1" />
+          <feat att="writtenForm" val="aikõ" />
+          <feat att="partOfSpeech" val="nn" />
+        </FormRepresentation>
+      </Lemma>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="aikõ" />
+        <feat att="msd" val="sg nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="aigõd" />
+        <feat att="msd" val="pl nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="aiga" />
+        <feat att="msd" val="sg gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="aikoi" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="aikojõ" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="aika" />
+        <feat att="msd" val="sg par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="aikaa" />
+        <feat att="msd" val="sg par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="aikoi" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="aikoitõ" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="aika" />
+        <feat att="msd" val="sg ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="aikasõ" />
+        <feat att="msd" val="sg ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="aikoisõ" />
+        <feat att="msd" val="pl ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="aigõz" />
+        <feat att="msd" val="sg ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="aikoiz" />
+        <feat att="msd" val="pl ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="aigõssõ" />
+        <feat att="msd" val="sg ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="aikoissõ" />
+        <feat att="msd" val="pl ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="aigõllõ" />
+        <feat att="msd" val="sg all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="aikoillõ" />
+        <feat att="msd" val="pl all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="aigõl" />
+        <feat att="msd" val="sg ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="aikoil" />
+        <feat att="msd" val="pl ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="aigõltõ" />
+        <feat att="msd" val="sg abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="aikoiltõ" />
+        <feat att="msd" val="pl abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="aigõssi" />
+        <feat att="msd" val="sg tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="aikoissi" />
+        <feat att="msd" val="pl tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="aikassaa" />
+        <feat att="msd" val="sg ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="aikoissaa" />
+        <feat att="msd" val="pl ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="aigaka" />
+        <feat att="msd" val="sg com" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="aikoika" />
+        <feat att="msd" val="pl com" />
+      </WordForm>
+    </LexicalEntry>
+    <LexicalEntry>
+      <Lemma>
+        <FormRepresentation>
+          <feat att="lemgram" val="ammõz..nn.1" />
+          <feat att="writtenForm" val="ammõz" />
+          <feat att="partOfSpeech" val="nn" />
+        </FormRepresentation>
+      </Lemma>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="ammõz" />
+        <feat att="msd" val="sg nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="ampad" />
+        <feat att="msd" val="pl nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="ampa" />
+        <feat att="msd" val="sg gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="ampaijõ" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="ammassõ" />
+        <feat att="msd" val="sg par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="ampaitõ" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="ampasõ" />
+        <feat att="msd" val="sg ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="ampaisõ" />
+        <feat att="msd" val="pl ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="ampaz" />
+        <feat att="msd" val="sg ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="ampaiz" />
+        <feat att="msd" val="pl ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="ampassõ" />
+        <feat att="msd" val="sg ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="ampaissõ" />
+        <feat att="msd" val="pl ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="ampallõ" />
+        <feat att="msd" val="sg all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="ampaillõ" />
+        <feat att="msd" val="pl all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="ampal" />
+        <feat att="msd" val="sg ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="ampail" />
+        <feat att="msd" val="pl ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="ampaltõ" />
+        <feat att="msd" val="sg abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="ampailtõ" />
+        <feat att="msd" val="pl abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="ampassi" />
+        <feat att="msd" val="sg tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="ampaissi" />
+        <feat att="msd" val="pl tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="ampassaa" />
+        <feat att="msd" val="sg ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="ampaissaa" />
+        <feat att="msd" val="pl ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="ampaka" />
+        <feat att="msd" val="sg com" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="ampaika" />
+        <feat att="msd" val="pl com" />
+      </WordForm>
+    </LexicalEntry>
+    <LexicalEntry>
+      <Lemma>
+        <FormRepresentation>
+          <feat att="lemgram" val="tüttö..nn.1" />
+          <feat att="writtenForm" val="tüttö" />
+          <feat att="partOfSpeech" val="nn" />
+        </FormRepresentation>
+      </Lemma>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="tüttö" />
+        <feat att="msd" val="sg nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="nominative" />
+        <feat att="writtenForm" val="tütöd" />
+        <feat att="msd" val="pl nom" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="tütö" />
+        <feat att="msd" val="sg gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="tüttöi" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="genitive" />
+        <feat att="writtenForm" val="tüttöje" />
+        <feat att="msd" val="pl gen" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="tüttöä" />
+        <feat att="msd" val="sg par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="tüttöi" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="partitive" />
+        <feat att="writtenForm" val="tüttöite" />
+        <feat att="msd" val="pl par" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="tüttöse" />
+        <feat att="msd" val="sg ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="illative" />
+        <feat att="writtenForm" val="tüttöise" />
+        <feat att="msd" val="pl ill" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="tüttöz" />
+        <feat att="msd" val="sg ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="inessive" />
+        <feat att="writtenForm" val="tüttöiz" />
+        <feat att="msd" val="pl ine" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="tütösse" />
+        <feat att="msd" val="sg ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="elative" />
+        <feat att="writtenForm" val="tüttöisse" />
+        <feat att="msd" val="pl ela" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="tütölle" />
+        <feat att="msd" val="sg all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="allative" />
+        <feat att="writtenForm" val="tüttöille" />
+        <feat att="msd" val="pl all" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="tütöl" />
+        <feat att="msd" val="sg ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="adessive" />
+        <feat att="writtenForm" val="tüttöil" />
+        <feat att="msd" val="pl ade" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="tütölte" />
+        <feat att="msd" val="sg abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="ablative" />
+        <feat att="writtenForm" val="tüttöilte" />
+        <feat att="msd" val="pl abl" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="tütössi" />
+        <feat att="msd" val="sg tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="translative" />
+        <feat att="writtenForm" val="tüttöissi" />
+        <feat att="msd" val="pl tra" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="tüttössaa" />
+        <feat att="msd" val="sg ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="terminative" />
+        <feat att="writtenForm" val="tüttöissaa" />
+        <feat att="msd" val="pl ter" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="singular" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="tütöka" />
+        <feat att="msd" val="sg com" />
+      </WordForm>
+      <WordForm>
+        <feat att="grammaticalNumber" val="plural" />
+        <feat att="grammaticalCase" val="comitative" />
+        <feat att="writtenForm" val="tüttöika" />
+        <feat att="msd" val="pl com" />
+      </WordForm>
+    </LexicalEntry>
+  </Lexicon>
+</LexicalResource>
